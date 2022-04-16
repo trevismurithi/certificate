@@ -10,6 +10,9 @@
 ._rounded{
     border-radius: 10px;
 }
+._black{
+    background-color: black;
+}
 ._white{
     background-color: white;
 }
